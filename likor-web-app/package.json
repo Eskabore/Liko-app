@@ -1,6 +1,6 @@
 {
   "name": "likor-web-app",
-  "version": "1.2.0-alpha",
+  "version": "1.2.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
