@@ -1,6 +1,7 @@
 # Likor Web-App
 
 ![GitHub](https://img.shields.io/github/license/Eskabore/liko-app?color=darkgreen) ![Github Version](https://img.shields.io/badge/dynamic/json?color=red&label=version&prefix=v&query=version&suffix=-alpha.1&url=https%3A%2F%2Fraw.githubusercontent.com%2FEskabore%2FLiko-app%2Fmaster%2Flikor-web-app%2Fpackage.json)
+[![DeepScan grade](https://deepscan.io/api/teams/11539/projects/14445/branches/269479/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11539&pid=14445&bid=269479)
 
 
 
