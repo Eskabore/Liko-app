@@ -1,44 +1,43 @@
 # Likor Web-App
 
-![GitHub](https://img.shields.io/github/license/Eskabore/liko-app?color=darkgreen) ![Github Version](https://img.shields.io/badge/dynamic/json?color=red&label=version&prefix=v&query=version&suffix=-alpha.1&url=https%3A%2F%2Fraw.githubusercontent.com%2FEskabore%2FLiko-app%2Fmaster%2Flikor-web-app%2Fpackage.json)
-[![DeepScan grade](https://deepscan.io/api/teams/11539/projects/14445/branches/269479/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11539&pid=14445&bid=269479)
+![GitHub License](https://img.shields.io/github/license/Eskabore/liko-app?color=darkgreen) ![Github Version](https://img.shields.io/badge/dynamic/json?color=red&label=version&prefix=v&query=version&suffix=-alpha.1&url=https%3A%2F%2Fraw.githubusercontent.com%2FEskabore%2FLiko-app%2Fmaster%2Flikor-web-app%2Fpackage.json) [![DeepScan grade](https://deepscan.io/api/teams/11539/projects/14445/branches/269479/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11539&pid=14445&bid=269479)
 
+Likor is a modern and user-friendly web-chat application that offers a feature-rich, accessible, and engaging communication experience.
 
+-   Versioning: mj-c. min-c.patch-release
 
-* Versioning  mj-c. min-c.patch-release
+## Features:
 
-## What's new ...?:
+### Accessibility:
 
-#### Accessability:
-- Private chat: In the Chat section, you can start a private room with any user
-- Favorite Channels: You can now starr your favourite channels. They will remain in the sidebar at your next log in unless you "un"-starr them.
-[![Screenshot-2020-10-31-React-App.png](https://i.postimg.cc/br4kNYng/Screenshot-2020-10-31-React-App.png)](https://postimg.cc/5Qq6sVnQ)
-- Image Uploader: Upload ".png" and ".jpg"/".jpeg" files
-- Sign out button: You can now log out 
-- Notifications: With tags, you know know exactly how many messages you missed in channels and private chats
-- Status indicator: You can now see who is connected during your session and who is not.
- [![likor-status-live.png](https://i.postimg.cc/26bXHyCF/likor-status-live.png)](https://postimg.cc/Hcm2npcV)
- 
- 
-#### Authentication: 
-- Removed Gmail authentication: requested from testers who want to connect anonymously to the app
-- Added email registration without email verification
+-   **Private Chat:** Initiate a private chat room with any user in the Chat section.
+-   **Favorite Channels:** Star your favorite channels to keep them in the sidebar for future logins. Simply un-star to remove them. [![Screenshot-2020-10-31-React-App.png](https://i.postimg.cc/br4kNYng/Screenshot-2020-10-31-React-App.png)](https://postimg.cc/5Qq6sVnQ)
+-   **Image Uploader:** Supports ".png" and ".jpg"/".jpeg" file uploads.
+-   **Sign Out Button:** Easily log out of the application.
+-   **Notifications:** Stay updated with message count tags for channels and private chats.
+-   **Status Indicator:** See the online status of users during your session. [![likor-status-live.png](https://i.postimg.cc/26bXHyCF/likor-status-live.png)](https://postimg.cc/Hcm2npcV)
 
+### Authentication:
 
-#### Fix(es):
-- The "#" symbol, sometimes remained in the sidebar after delation of a channel. For now you cannot delete a channel. A delete button will be included in the next patch. (I also want to add up content for testing purposes, not remove it)
-- The search bar was not working on iOS devices and had an algorithm issue. It has been removed.
-- The send button was not working on iOS devices. It works now on any device and any format.
+-   **Removed Gmail Authentication:** Allowing users to connect anonymously to the app.
+-   **Email Registration:** Added email registration without email verification.
 
-#### Design:
-- Text formating & color: The text was visible on small devices even though one would be a good distance away. Although, format remained barely readable. 
-- Removed unecessary options: those either not working, undergoing work or for decorative purpose.
+### Fixes:
 
-#### Naming:
-Likor-Sblack is now Likor***. 
-Likor-S"color" (where color=random color) served me to identify prototypes I was designing for DiFFrenZZ web-chat-app. 
+-   Resolved an issue where the "#" symbol remained in the sidebar after deleting a channel.
+-   Improved search bar functionality and compatibility with iOS devices.
+-   Enhanced send button compatibility across all devices and formats.
 
-*** *Likor is the contraction of 2 latin words*
-- Loquor-*speak[neg.]* (Nec Gallice nec Theodisce loquor) 
-- Liquo (as, are, avi, atum) - *to clarify* - common meaning during the 1st century BC was (HORATIUS/HORACE)
+### Design:
 
+-   Improved text formatting and color for better readability on small devices.
+-   Removed unnecessary options to streamline the user interface.
+
+### Naming:
+
+The name "Likor" is derived from the contraction of two Latin words:
+
+-   _Loquor_ (speak[neg.]): Nec Gallice nec Theodisce loquor
+-   _Liquo_ (as, are, avi, atum): To clarify; a common meaning in the 1st century BC (HORATIUS/HORACE)
+
+Please provide feedback or contributions in English.
