@@ -18,7 +18,7 @@ export const setChannel = (channel) => {
     }
 }
 
-export const setfavouriteChannel = (channel) => {
+export const setFavouriteChannel = (channel) => {
     return {
         type: SET_FAVOURITECHANNEL,
         payload: {
@@ -27,7 +27,7 @@ export const setfavouriteChannel = (channel) => {
     }
 }
 
-export const removefavouriteChannel = (channel) => {
+export const removeFavouriteChannel = (channel) => {
     return {
         type: REMOVE_FAVOURITECHANNEL,
         payload: {
